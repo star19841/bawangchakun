@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/cream_bg"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/tv_dialog_product_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_primary"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="杯型"
+        android:textColor="@color/text_primary"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/ll_dialog_cup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal">
+
+        <TextView android:id="@+id/dialog_cup_1" android:layout_width="0dp" android:layout_height="34dp" android:layout_marginEnd="6dp" android:layout_weight="1" android:background="@drawable/tag_selected_bg" android:gravity="center" android:text="大杯" android:textColor="#FFFFFF" android:textSize="12sp" />
+        <TextView android:id="@+id/dialog_cup_2" android:layout_width="0dp" android:layout_height="34dp" android:layout_marginEnd="6dp" android:layout_weight="1" android:background="@drawable/tag_unselected_bg" android:gravity="center" android:text="中杯" android:textColor="@color/text_secondary" android:textSize="12sp" />
+        <TextView android:id="@+id/dialog_cup_3" android:layout_width="0dp" android:layout_height="34dp" android:layout_weight="1" android:background="@drawable/tag_unselected_bg" android:gravity="center" android:text="小杯" android:textColor="@color/text_secondary" android:textSize="12sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:text="温度"
+        android:textColor="@color/text_primary"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/ll_dialog_ice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal">
+
+        <TextView android:id="@+id/dialog_ice_1" android:layout_width="0dp" android:layout_height="34dp" android:layout_marginEnd="6dp" android:layout_weight="1" android:background="@drawable/tag_selected_bg" android:gravity="center" android:text="正常冰" android:textColor="#FFFFFF" android:textSize="12sp" />
+        <TextView android:id="@+id/dialog_ice_2" android:layout_width="0dp" android:layout_height="34dp" android:layout_marginEnd="6dp" android:layout_weight="1" android:background="@drawable/tag_unselected_bg" android:gravity="center" android:text="少冰" android:textColor="@color/text_secondary" android:textSize="12sp" />
+        <TextView android:id="@+id/dialog_ice_3" android:layout_width="0dp" android:layout_height="34dp" android:layout_marginEnd="6dp" android:layout_weight="1" android:background="@drawable/tag_unselected_bg" android:gravity="center" android:text="常温" android:textColor="@color/text_secondary" android:textSize="12sp" />
+        <TextView android:id="@+id/dialog_ice_4" android:layout_width="0dp" android:layout_height="34dp" android:layout_weight="1" android:background="@drawable/tag_unselected_bg" android:gravity="center" android:text="热" android:textColor="@color/text_secondary" android:textSize="12sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:text="数量"
+        android:textColor="@color/text_primary"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/dialog_btn_minus"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:background="@drawable/btn_count_bg"
+            android:gravity="center"
+            android:text="-"
+            android:textColor="@color/text_secondary"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/dialog_tv_quantity"
+            android:layout_width="48dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="1"
+            android:textColor="@color/text_primary"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/dialog_btn_plus"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:background="@drawable/btn_count_bg"
+            android:gravity="center"
+            android:text="+"
+            android:textColor="@color/text_secondary"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/dialog_tv_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:textColor="@color/gold"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+</LinearLayout>

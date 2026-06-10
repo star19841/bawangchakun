@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_matcha_latte.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\matcha_latte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_item_recommend_product.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\item_recommend_product.xml"
+    },
+    {
+        "merged": "com.example.bawangchakun.app-merged_res-29:/layout_activity_change_password.xml.flat",
+        "source": "com.example.bawangchakun.app-main-31:/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_magnolia.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\magnolia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_flower_field.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\flower_field.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bawangchakun.app-merged_res-29:/drawable_preset_avatar_4.jpg.flat",
+        "source": "com.example.bawangchakun.app-main-31:/drawable/preset_avatar_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_item_category_header.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\item_category_header.xml"
+    },
+    {
+        "merged": "com.example.bawangchakun.app-merged_res-29:/drawable_bg_password_strength_weak.xml.flat",
+        "source": "com.example.bawangchakun.app-main-31:/drawable/bg_password_strength_weak.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_ic_guide_1.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\ic_guide_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_latte.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\latte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_item_guide_page.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\item_guide_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_activity_guide.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_peach_season.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\peach_season.jpg"
+    },
+    {
+        "merged": "com.example.bawangchakun.app-merged_res-29:/layout_dialog_avatar.xml.flat",
+        "source": "com.example.bawangchakun.app-main-31:/layout/dialog_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_chat_ai_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\chat_ai_bg.xml"
+    },
+    {
+        "merged": "com.example.bawangchakun.app-merged_res-29:/drawable_bg_password_strength_medium.xml.flat",
+        "source": "com.example.bawangchakun.app-main-31:/drawable/bg_password_strength_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_moli_nailv.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\moli_nailv.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_oat_latte.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\oat_latte.jpg"
+    },
+    {
+        "merged": "com.example.bawangchakun.app-merged_res-29:/drawable_preset_avatar_2.jpg.flat",
+        "source": "com.example.bawangchakun.app-main-31:/drawable/preset_avatar_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_huatian_wulong.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\huatian_wulong.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_yimo_shanyue.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\yimo_shanyue.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_recommend_card_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\recommend_card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_vanilla_latte.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\vanilla_latte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_highland_spring.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\highland_spring.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_jasmine_green.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\jasmine_green.jpg"
+    },
+    {
+        "merged": "com.example.bawangchakun.app-merged_res-29:/drawable_preset_avatar_5.jpg.flat",
+        "source": "com.example.bawangchakun.app-main-31:/drawable/preset_avatar_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_tag_selected_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\tag_selected_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_orange_season.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\orange_season.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_product_img_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\product_img_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bawangchakun.app-merged_res-29:/layout_activity_profile.xml.flat",
+        "source": "com.example.bawangchakun.app-main-31:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_yunnan.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\yunnan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_ic_guide_3.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\ic_guide_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_btn_count_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\btn_count_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_qianfeng_cui.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\qianfeng_cui.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_activity_ai_chat.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\activity_ai_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_btn_secondary_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\btn_secondary_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_qingqing_nuoshan.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\qingqing_nuoshan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_dahongpao.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\dahongpao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_btn_primary_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\btn_primary_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_edit_text_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\edit_text_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_yunman_puer.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\yunman_puer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_activity_product_detail.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_brown_sugar_latte.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\brown_sugar_latte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_meteor_latte.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\meteor_latte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_item_order.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\item_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_item_chat_user.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\item_chat_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_search_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\search_bg.xml"
+    },
+    {
+        "merged": "com.example.bawangchakun.app-merged_res-29:/drawable_preset_avatar_7.jpg.flat",
+        "source": "com.example.bawangchakun.app-main-31:/drawable/preset_avatar_7.jpg"
+    },
+    {
+        "merged": "com.example.bawangchakun.app-merged_res-29:/drawable_bg_password_strength_strong.xml.flat",
+        "source": "com.example.bawangchakun.app-main-31:/drawable/bg_password_strength_strong.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_ic_ai_chat.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\ic_ai_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_chat_user_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\chat_user_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_dot_unselected.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\dot_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_guifu_lanxiang.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\guifu_lanxiang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_splash_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\splash_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_dialog_add_to_cart.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\dialog_add_to_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_amber_light.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\amber_light.jpg"
+    },
+    {
+        "merged": "com.example.bawangchakun.app-merged_res-29:/drawable_preset_avatar_1.jpg.flat",
+        "source": "com.example.bawangchakun.app-main-31:/drawable/preset_avatar_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_spring_mountain.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\spring_mountain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_taro_grape.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\taro_grape.jpg"
+    },
+    {
+        "merged": "com.example.bawangchakun.app-merged_res-29:/drawable_preset_avatar_8.jpg.flat",
+        "source": "com.example.bawangchakun.app-main-31:/drawable/preset_avatar_8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_osmanthus.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\osmanthus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_card_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_spring_longjing.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\spring_longjing.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_cloud_green.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\cloud_green.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_activity_order_list.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\activity_order_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_activity_confirm_order.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\activity_confirm_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_btn_add_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\btn_add_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_product_detail_img_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\product_detail_img_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_item_category.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_avatar_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\avatar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_ic_guide_2.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\ic_guide_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_tag_unselected_bg.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\tag_unselected_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_boya_juexian.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\boya_juexian.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bawangchakun.app-merged_res-29:/drawable_preset_avatar_3.jpg.flat",
+        "source": "com.example.bawangchakun.app-main-31:/drawable/preset_avatar_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_dot_selected.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\dot_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_full_passion.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\full_passion.jpg"
+    },
+    {
+        "merged": "com.example.bawangchakun.app-merged_res-29:/drawable_preset_avatar_6.jpg.flat",
+        "source": "com.example.bawangchakun.app-main-31:/drawable/preset_avatar_6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_item_cart.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_yuemo_jingshan.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\yuemo_jingshan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\layout_item_chat_ai.xml.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\layout\\item_chat_ai.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_velvet_latte.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\velvet_latte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\drawable_qilixiang.jpg.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\drawable\\qilixiang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.4\\com.example.bawangchakun.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]
